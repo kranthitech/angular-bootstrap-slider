@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kranthitech/angular-bootstrap-slider/issues"
   },
-  "homepage": "https://github.com/kranthitech/angular-bootstrap-slider#readme"
+  "homepage": "https://github.com/kranthitech/angular-bootstrap-slider#readme",
+  "dependencies": {
+    "bootstrap-slider": "^5.0.12"
+  }
 }
